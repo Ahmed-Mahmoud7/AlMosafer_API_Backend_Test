@@ -20,7 +20,11 @@ Automating functional API Backend for https://ae.almosafer.com/en. API This proj
 To run the test right click on testng.xml file and click run
 
 ## Test Run Record
-https://www.screencast.com/t/IjZWhaGj
+
+
+https://user-images.githubusercontent.com/30384567/154998025-7ae61dc6-8ced-4595-b4bd-793305157ab8.mp4
+
+
 
 ## Project components
 - Main objects are in the directory *src/main/java/com.apitest.base*
