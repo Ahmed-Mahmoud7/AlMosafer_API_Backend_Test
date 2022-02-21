@@ -17,7 +17,7 @@ Automating functional API Backend for https://ae.almosafer.com/en. API This proj
 
 ## How to run tests
 
-To run the test
+To run the test right click on testng.xml file and click run
 ```
 
 ```
