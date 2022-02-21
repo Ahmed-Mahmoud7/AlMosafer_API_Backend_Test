@@ -73,7 +73,7 @@ public class SearchFlightsTest extends BaseTest {
         response.prettyPrint();
         // Verify response is 200
         Assert.assertEquals(response.getStatusCode(),200, "Status code is 200 and success");
-        // Verify at least 1 flight id in the response
+        // Verify at least 1 country in the response
         Assert.assertEquals(response.jsonPath().get("[0].Code"), "SA");
         Assert.assertEquals(response.jsonPath().get("[0].Label[0].Value"), "Saudi Arabia");
 
@@ -82,7 +82,7 @@ public class SearchFlightsTest extends BaseTest {
     @Description("POST Method To Check Airports")
     @Test(description = "Validate list airports")
     public void selectFlightPost() {
-        // Create JSON body
+
         Response response = getAirPorts();
 
         // Verifications
