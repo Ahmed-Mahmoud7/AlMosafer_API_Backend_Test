@@ -30,6 +30,9 @@ https://user-images.githubusercontent.com/30384567/154998025-7ae61dc6-8ced-4595-
 - Main objects are in the directory *src/main/java/com.apitest.base*
 - Test classes are in the the directory *src/test/java/com.apitest.mosaferapi*
   
+## Generate Reports
+- allure serve allure-results
+
 ## Reports & Test Results
   
   
