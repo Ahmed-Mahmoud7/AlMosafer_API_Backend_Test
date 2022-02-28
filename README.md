@@ -22,7 +22,11 @@ To run the test right click on testng.xml file and click run
 ## Test Run Record
 
 
-https://user-images.githubusercontent.com/30384567/154998025-7ae61dc6-8ced-4595-b4bd-793305157ab8.mp4
+
+
+https://user-images.githubusercontent.com/30384567/156014221-c3154305-c328-49fe-a532-c1bab5e2a22a.mp4
+
+
 
 
 
@@ -31,7 +35,7 @@ https://user-images.githubusercontent.com/30384567/154998025-7ae61dc6-8ced-4595-
 - Test classes are in the the directory *src/test/java/com.apitest.mosaferapi*
   
 ## Generate Reports
-- allure serve allure-results
+- From Terminal run the following command  allure serve allure-results
 
 ## Reports & Test Results
   
