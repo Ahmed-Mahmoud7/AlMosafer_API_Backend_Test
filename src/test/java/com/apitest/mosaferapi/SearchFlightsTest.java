@@ -52,8 +52,7 @@ public class SearchFlightsTest  extends BaseTest{
     @Description("GET Countries Method")
     @Test(description = "Validate to list all countries ")
     public void validateGetAllCountriesList() {
-        GetCountries count = new GetCountries();
-        Response response = count.getCountriesListAllList();
+        Response response = GetCountries.getCountriesListAllList();
         // Verify response is 200
         Assert.assertEquals(response.getStatusCode(),200, "Status code is 200 and success");
         // Verify at least 1 country in the response

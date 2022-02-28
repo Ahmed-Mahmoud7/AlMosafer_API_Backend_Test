@@ -5,6 +5,7 @@ import io.restassured.RestAssured;
 import io.restassured.response.Response;
 
 public class GetFlights extends BaseTest{
+
     @Step
     public static Response getSearchFlightByCityCode() {
         // Add path parameter
