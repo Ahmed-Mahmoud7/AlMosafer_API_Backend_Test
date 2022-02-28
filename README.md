@@ -35,7 +35,11 @@ https://user-images.githubusercontent.com/30384567/156014221-c3154305-c328-49fe-
 - Test classes are in the the directory *src/test/java/com.apitest.mosaferapi*
   
 ## Generate Reports
-- From Terminal run the following command  allure serve allure-results
+- From Terminal run the following command:
+
+```
+allure serve allure-results
+```
 
 ## Reports & Test Results
   
