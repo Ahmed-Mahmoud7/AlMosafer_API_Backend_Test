@@ -1,5 +1,5 @@
 # Rest Assured TestNG Framework
-Automating functional API Backend Testing for https://ae.almosafer.com/en. This project uses the object model (POM) design pattern.
+Automating functional API Backend Testing Framework This project uses the object model (POM) design pattern.
 
 ## Stack & Libraries
 - Java
